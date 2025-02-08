@@ -19,6 +19,7 @@ body{
 .header-main{
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 /* Selector de clases */
@@ -46,4 +47,35 @@ body{
 
 .nav-list_ul-li a:hover {
     text-decoration: underline;
+}
+
+.container_section-aside{
+    /* border: 2px solid blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-container{
+    /* border: 2px solid red; */
+    margin: 4px;
+    padding: 20px;
+    width: 50%;
+}
+
+.aside-bar{
+    /* border: 2px solid red; */
+    margin: 4px;
+    padding: 20px;
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer-container{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    
 }

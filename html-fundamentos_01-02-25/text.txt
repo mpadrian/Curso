@@ -1,0 +1,6 @@
+cd .. = una carpeta hacia atras
+ls = muestra las carpetas que estan dentro del directorio
+tab = autocompleta el nombre de la carpeta
+new-item  = para crear un nuevo archivo
+mkdir = crear carpeta
+clear = limpiar el terminal

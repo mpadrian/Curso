@@ -1,0 +1,20 @@
+Fundamentos de Python
+    -Variables
+    -Operadores matematicos
+    -Operadores logicos
+    -Operadores de comparacion
+    -Estructuras de control
+        *Condicionales
+        *Ciclo finito: for
+        *Ciclo infinito: while
+        *Funciones
+    -Estructuras de datos
+        *Cadenas de caracteres> string
+        *Enteros
+        *Numeros flotantes(Decimales)
+        *Listas
+        *Diccionarios 
+        *Tuplas
+
+Variables:
+

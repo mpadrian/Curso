@@ -11,7 +11,7 @@ git remote add origin https://github.com/mpadrian/project-1.git
 git push -u origin main
 git log --oneline = historial de los commit realizados
 git merge "" = para copiar el trabajo hecho de una rama a la rama principal
-git branch -d = eliminar una rama
+git branch -d = eliminar una rama 
 
 ///////////////
 

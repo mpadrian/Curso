@@ -1,2 +1,5 @@
 python -m venv = crear el entorno virtual
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+mkdir template = crear carpeta con nombre template
+New-Item = Crear archivo
